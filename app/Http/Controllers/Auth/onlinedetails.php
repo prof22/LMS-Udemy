@@ -1,0 +1,3 @@
+password: GGLB}aLIZ078
+username:infini21_onlinec
+db:infini21_onlinecourse
